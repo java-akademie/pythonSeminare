@@ -1,1 +1,2 @@
 # pythonSeminare
+angepasst
